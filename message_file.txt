@@ -1,0 +1,4 @@
+T000004 - This is really multi-line
+
+I was having trouble committing multi line files.
+Hopefully this will work.
